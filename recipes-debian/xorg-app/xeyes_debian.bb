@@ -15,4 +15,4 @@ DPN = "x11-apps"
 # There is a patch in debian/patches/ but no patch in series
 DEBIAN_PATCH_TYPE = "quilt"
 
-S = "${WORKDIR}/git/xeyes"
+S = "${DEBIAN_UNPACK_DIR}/xeyes"
