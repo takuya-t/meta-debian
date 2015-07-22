@@ -25,7 +25,6 @@ EXTRA_OECONF = " \
 	--enable-ipv6 \
 	--enable-unicode=ucs4 \
 	--with-dbmliborder=bdb:gdbm \
-	--with-system-expat \
 	--with-threads \
 	--with-pymalloc \
 	--without-cxx-main \

@@ -1,7 +1,7 @@
 require recipes-devtools/perl/perl-native_5.14.3.bb
 require perl.inc
 
-DPR = "1"
+DPR = "2"
 
 # Remove patches: 
 # Already existed in source code:
